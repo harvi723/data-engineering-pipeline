@@ -14,3 +14,5 @@ Features
 How to Run
 pip install -r requirements.txt
 python scripts/load_sqlite.py
+
+![Output](output.png)
