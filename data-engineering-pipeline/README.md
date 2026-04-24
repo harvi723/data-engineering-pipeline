@@ -15,4 +15,5 @@ How to Run
 pip install -r requirements.txt
 python scripts/load_sqlite.py
 
+Output
 ![Output](output.png)
